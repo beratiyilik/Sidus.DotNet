@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sidus.DotNet.Core\Sidus.DotNet.Core.csproj" />
+    <ProjectReference Include="..\Sidus.DotNetFramework.Base\Sidus.DotNetFramework.Base.csproj" />
+  </ItemGroup>
+
+</Project>
